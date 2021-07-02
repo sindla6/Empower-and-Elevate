@@ -2,25 +2,34 @@
 <html>
   <head>
     <title>Empower and Elevate</title>
-    <link href="style.css" rel="stylesheet">
+    <link href="C:\Users\kaden\Desktop\eneweb\.vscode\style.css" rel="stylesheet" type = "text/css">
     <link href="https://fonts.googleapis.com/css2?family=Rowdies&display=swap" rel="stylesheet">
   </head>
   <body>
 
     <div class="topnav">
       <a class="active" href="index.html">Home</a>
-      <a href="guidlines.html">Guidlines</a>
+      <a href="guidelines.html">Guidelines</a>
       <a href="team.html">Team</a>
     </div>
 
 
     <h1>Empower and Elevate</h1>
 
+    <div class="mission">
+        <h2>Mission</h2>
+  
+        <p>Our mission is to reach out to underrepresented high school student communities and provide opportunities to pursue their career interests. We are looking to empower these students with resources to compete in high-tech world. We want our program to have a profound effect on students' lives.</p>
+      </div>
+  
+
     <div class="description">
       <h2>Description</h2>
 
 
-      <p>We are looking to offer mentorships and internships for high school students that are at-risk or of underrepresented backgrounds. Our mentorship program is free of charge for students.</p>
+      <p>We are looking to offer mentorships and internships for high school students that are at-risk or of underrepresented backgrounds. Our mentorship program connects students with experienced career professionals. We ask our mentors to connect students to internship opportunities at their workplace. Internships serve as a jumpstart to students' careers, providing students with experience and networks in the workplace. </p> 
+      <br>    
+      <p>Mentors and mentees are paired based on career interests indicated on our sign-up forms. Our mentorship program is free of charge for students.</p>
       <br>
       <p>Empower and Elevate is a non-profit established in 2021</p>
       <form action="https://forms.gle/LNzVutGq38bAuGAN9">
@@ -33,11 +42,6 @@
       </form>
     </div>
 
-    <div class="mission">
-      <h2>Mission</h2>
-
-      <p>insert stuff</p>
-    </div>
-
+    
   </body>
 </html>
