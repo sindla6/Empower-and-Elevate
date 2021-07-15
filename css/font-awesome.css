@@ -211,7 +211,9 @@
   content: "\f006";
 }
 .fa-user:before {
+  position: relative;
   content: "\f007";
+  top: 12px;
 }
 .fa-film:before {
   content: "\f008";
@@ -373,7 +375,9 @@
   content: "\f03e";
 }
 .fa-pencil:before {
+  position: relative;
   content: "\f040";
+  top: 12px;
 }
 .fa-map-marker:before {
   content: "\f041";
@@ -799,7 +803,9 @@
   content: "\f0de";
 }
 .fa-envelope:before {
+  position: relative;
   content: "\f0e0";
+  top: 12px;
 }
 .fa-linkedin:before {
   content: "\f0e1";
