@@ -170,18 +170,18 @@ header  .navbar-nav > li > a {
 }
 
 header .nav .caret {
-    border-bottom-color: #f5f5f5;
-    border-top-color: #f5f5f5;
+    border-bottom-color: #00b4d8;
+    border-top-color: #00b4d8;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  background-color: #fff;
+  background-color: #00b4d8;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color:  #fff;
+  background-color:  #00b4d8;
 }	
 	
 
@@ -1328,15 +1328,16 @@ footer .widget .flickr_badge img {
   
 footer{
 	padding:10px 0 0 0;
-	color:#f8f8f8;
+	background:#00b4d8;
+	color:#00b4d8
 }
 
 footer a {
-	color:#fff;
+	color:#00b4d8;
 }
 
 footer a:hover {
-	color:#eee;
+	color:#00b4d8;
 }
 
 footer h1, footer h2, footer h3, footer h4, footer h5, footer h6{
